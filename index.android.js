@@ -17,7 +17,7 @@ class sample extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Ich fick dich in arsch
+          Ne tust du nicht!
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.android.js
